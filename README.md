@@ -1,2 +1,3 @@
-# 1st-work
-my first github repository
+# 1st-work(DEMO)
+My First Github Repository
+Aouther - fiya
